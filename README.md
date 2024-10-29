@@ -1,5 +1,3 @@
-# pyramid
-
 # Pyramid Descent Puzzle Solver
 
 A Python-based solution for the Pyramid Descent Puzzle, where the objective is to find a path from the top to the bottom of a pyramid, achieving a target product by following a specified route.
